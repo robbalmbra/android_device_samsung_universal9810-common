@@ -29,7 +29,6 @@ PRODUCT_PACKAGES += \
 
 # etc
 PRODUCT_PACKAGES += \
-    audio_policy_configuration.xml \
     media_profiles_V1_0.xml \
     libnfc-sec-vendor.conf
 
